@@ -1,0 +1,8 @@
+- 👋 Hello World, I’m Emer Ní Chíobháin!
+- 👀 I’m a developer, leader, artist, maker, and gamer
+- 💞️ I'm passionate about Agile and servant leadership
+- 🤓 I'm profficient in HTML, CSS, JavaScript, React and its related libraries
+- 🌱 I’m currently learning typescript, python and C++
+- 📫 You can reach me at hello@emernichiobhain.dev
+- 👩‍💻 Check out my [polywork](https://www.polywork.com/emernichiobhain) profile
+- 🐦 Follow me on twitter [@emernichiobhain](https://www.twitter.com/emernichiobhain)
